@@ -136,8 +136,4 @@ They Prioritize user needs, safety, and well-being when designing and developing
 They show transparency about software functionality, risks, and limitations, and take responsibility for any unintended consequences.
 They Speak up about unethical practices or concerns within their organization, following established reporting procedures and seeking support from relevant authorities if necessary.
 
-Submission Guidelines:
-Your answers should be well-structured, concise, and to the point.
-Provide real-world examples or case studies wherever possible.
-Cite any references or sources you use in your answers.
-Submit your completed assignment by [due date].
+OPEN TO EDIT FOR EASIER VIEWING 
