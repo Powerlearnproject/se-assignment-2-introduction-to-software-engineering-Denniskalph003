@@ -112,23 +112,23 @@ Adapting to changing market conditions, technology trends, or organizational pri
 Q9 Software Maintenance:
 Define software maintenance and explain the different types of maintenance activities. Why is maintenance an essential part of the software lifecycle?
 -Software maintenance is a the process of modifying, updating, and enhancing software after it has been deployed, aimed at keeping it functional, efficient, and aligned with changing requirements and environments
--Types of Maintenance Activities:Corrective Maintenance: Involves fixing bugs and errors identified during testing or while the software is in use.
+Types of Maintenance Activities:Corrective Maintenance: Involves fixing bugs and errors identified during testing or while the software is in use.
                                 Adaptive Maintenance: Involves modifying the software to adapt to changes in the environment, such as hardware upgrades or operating system changes.
                                 Perfective Maintenance: Involves enhancing the software to improve performance, usability, or other non-functional aspects.
                                 Preventive Maintenance: Involves making changes to the software to prevent future issues, such as refactoring code to improve maintainability.
--Importance of Software Maintenance:-Ensures that the software remains functional, reliable, and efficient over time, meeting the needs of users and stakeholders.
+Importance of Software Maintenance:-Ensures that the software remains functional, reliable, and efficient over time, meeting the needs of users and stakeholders.
                                     -Addresses evolving requirements, technological advancements, and changes in the business or regulatory environment.
                                     -Maximizes the lifespan and value of software investments, reducing the need for costly rewrites or replacements.
                                     -Improves user satisfaction by addressing issues promptly, minimizing downtime, and providing a positive user experience.
 
 Q10 Ethical Considerations in Software Engineering:
 What are some ethical issues that software engineers might face? How can software engineers ensure they adhere to ethical standards in their work?
--Ethical Issues in Software Engineering:Handling sensitive user data and ensuring its confidentiality and protection.
+Ethical Issues in Software Engineering:Handling sensitive user data and ensuring its confidentiality and protection.
                                         Developing secure software to prevent unauthorized access and data breaches.
                                         Ensuring fairness and equality in algorithms and systems, avoiding biased decision-making.
                                         Respecting copyrights, patents, and licenses when using third-party software or proprietary algorithms.
                                         Providing clear and honest information about software capabilities, limitations, and potential risks to users and stakeholders.
--How they adhere to ethical standards
+How they adhere to ethical standards
 They Familiarize themselves with professional codes of ethics, such as those established by ACM or IEEE, and adhere to their principles.
 They Consider the ethical implications of their actions and decisions, consulting with colleagues or ethics experts when uncertain.
 They Stay informed about emerging ethical issues and best practices in software engineering through training, education, and professional development.
@@ -136,4 +136,4 @@ They Prioritize user needs, safety, and well-being when designing and developing
 They show transparency about software functionality, risks, and limitations, and take responsibility for any unintended consequences.
 They Speak up about unethical practices or concerns within their organization, following established reporting procedures and seeking support from relevant authorities if necessary.
 
-OPEN TO EDIT FOR EASIER VIEWING 
+
